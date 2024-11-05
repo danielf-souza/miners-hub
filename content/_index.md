@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Milan Innovation and Entrepreneurship Research Seminars** (MInERS) is a series designed to promote collaboration and knowledge exchange among Milan-based innovation and entrepreneurship researchers. Organized by scholars from five local universities, MInERS provides a platform for early-career researchers to connect, share work, and build networks.
+        The **Milan Innovation and Entrepreneurship Research Seminars** (MInERS) is a seminar series designed to promote collaboration and knowledge exchange among Milan-based innovation and entrepreneurship researchers.
   
   - block: collection
     content:
