@@ -11,7 +11,7 @@ sections:
         Milan Innovation & Entrepreneurship
         Research Seminars
       image:
-        filename: welcome.jpg
+        filename: Milano,_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II,_2016.jpg
       text: |
         <br>
         
