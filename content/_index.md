@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Milan Innovation & Entrepreneurship
+        Research Seminars
       image:
         filename: welcome.jpg
       text: |
