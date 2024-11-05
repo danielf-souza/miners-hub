@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Milan Innovation and Entrepreneurship Research Seminars** (MInERS) is a seminar series aimed at fostering collaboration and knowledge exchange among researchers specializing in the fields of innovation and entrepreneurship in the Milan area. Organized by researchers from five Milanese universities, this initiative seeks to establish a local platform for early-career scholars to interact, share research, and develop professional networks.
   
   - block: collection
     content:
