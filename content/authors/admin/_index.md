@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Daniel Souza
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Daniel
+last_name: Souza
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Polytechnic University of Milan
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
