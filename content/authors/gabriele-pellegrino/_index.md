@@ -1,16 +1,19 @@
 ---
 # Display name
-title: Stefano Baruffaldi
+title: Gabriele Pellegrino
 
 # Full Name (for SEO)
-first_name: Stefano
-last_name: Baruffaldi
+first_name: Gabriele
+last_name: Pellegrino
 
+# Username (this should match the folder name)
+authors:
+  - gabriele-pellegrino
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor at Polytechnic University of Milan
+role: Associate Professor at Catholic University of the Sacred Heart
 
 # Organizations/Affiliations
 organizations:

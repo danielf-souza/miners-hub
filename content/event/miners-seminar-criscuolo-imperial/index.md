@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: MInERS Meeting \#2
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: MInERS Meeting - DEMS Economics Seminar
+event_url: https://dems.unimib.it/it/argomento-eventi/seminars/dems-seminars
 
-location: Wowchemy HQ
+location: University of Milan – Biccoca 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Piazza Ateneo Nuovo, 1 - building U6 room 29
+  city: Milan
+  region: MI
+  postcode: '20126'
+  country: Italy
 
 summary: An example event.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2030-12-16T16:00:00Z'
+date_end: '2030-12-16T17:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-11-07T00:00:00Z'
 
 authors: []
 tags: []

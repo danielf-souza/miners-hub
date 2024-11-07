@@ -1,7 +1,7 @@
 ---
-title: MInERS Inaugural Meeting
+title: MInERS Meeting \#1
 
-event: ICRIOS seminar
+event: MInERS Event - ICRIOS seminar
 event_url: https://icrios.unibocconi.eu/opt-out-or-not-strategic-decisions-unified-patent-court
 
 location: Bocconi University
@@ -13,12 +13,12 @@ address:
   country: Italy
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: The new Unified Patent Court (UPC) in Europe allows patent owners access to centralized enforcement, albeit at the risk of centralized invalidation. For new unitary patents (UPs) owners will enjoy a large cost reduction. At the introduction of the UPC/UP system, owners of existing European patents and patent applications were able to opt-out of the new court system during a three-month time window. We derive a set of hypotheses and combine data on the actual opt-out decisions with a rich set of patent and owner characteristics to test them. Consistent with theoretical expectations, we find that patents with high risk of invalidation were typically opted out, as were valuable patents, e.g., with large patent families and with supplementary protection certificates (SPCs). Non-European patent owners had a strong preference for the new system.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-16T16:00:00Z'
-date_end: '2024-12-16T18:00:00Z'
+date: '2024-05-17T16:00:00Z'
+date_end: '2024-05-17T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

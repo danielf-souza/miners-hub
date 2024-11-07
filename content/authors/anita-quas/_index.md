@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Marco Guerzoni
+title: Anita Quas
 
 # Full name (for SEO)
-first_name: Marco
-last_name: Guerzoni
+first_name: Anita
+last_name: Quas
 
 # Username (this should match the folder name)
 authors:
-  - marco_guerzoni
+  - anita-quas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor at University of Milan - Biccoca
+role:  Associate Professor at University of Milan - Statale
 
 # Organizations/Affiliations
 organizations:
