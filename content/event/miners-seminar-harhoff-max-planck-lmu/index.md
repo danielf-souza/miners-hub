@@ -12,7 +12,7 @@ address:
   postcode: '20136'
   country: Italy
 
-summary: To Opt Out or Not – Strategic Decisions at the Unified Patent Court
+summary: "To Opt Out or Not – Strategic Decisions at the Unified Patent Court"
 abstract: The new Unified Patent Court (UPC) in Europe allows patent owners access to centralized enforcement, albeit at the risk of centralized invalidation. For new unitary patents (UPs) owners will enjoy a large cost reduction. At the introduction of the UPC/UP system, owners of existing European patents and patent applications were able to opt-out of the new court system during a three-month time window. We derive a set of hypotheses and combine data on the actual opt-out decisions with a rich set of patent and owner characteristics to test them. Consistent with theoretical expectations, we find that patents with high risk of invalidation were typically opted out, as were valuable patents, e.g., with large patent families and with supplementary protection certificates (SPCs). Non-European patent owners had a strong preference for the new system.
 
 # Talk start and end times.
