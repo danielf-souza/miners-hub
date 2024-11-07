@@ -1,5 +1,5 @@
 ---
-title: MInERS Meeting \#2
+title: MInERS Meeting 2 - Paola Criscuolo (Imperial College Businness School)
 
 event: MInERS Meeting - DEMS Economics Seminar
 event_url: https://dems.unimib.it/it/argomento-eventi/seminars/dems-seminars
@@ -12,7 +12,7 @@ address:
   postcode: '20126'
   country: Italy
 
-summary: An example event.
+summary: Innovation in large organizations: the role of autonomy and bottom-up inventions
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
