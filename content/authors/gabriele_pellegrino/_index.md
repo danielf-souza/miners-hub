@@ -10,7 +10,7 @@ last_name: Pellegrino
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor at Catholic University of the Sacred Heart
 
 # Organizations/Affiliations
 organizations:

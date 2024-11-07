@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Daniel Souza
+title: Stefano Baruffaldi
 
 # Full Name (for SEO)
-first_name: Daniel
-last_name: Souza
+first_name: Stefano
+last_name: Baruffaldi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor at Polytechnic University of Milan
 
 # Organizations/Affiliations
 organizations:

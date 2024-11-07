@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role:  Associate Professor at University of Milan - Statale
 
 # Organizations/Affiliations
 organizations:
