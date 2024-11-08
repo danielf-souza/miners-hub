@@ -4,7 +4,7 @@ title: MInERS Meeting 2 - Paola Criscuolo (Imperial College Businness School)
 event: MInERS Meeting - DEMS Economics Seminar
 event_url: https://dems.unimib.it/it/argomento-eventi/seminars/dems-seminars
 
-location: University of Milan – Biccoca 
+location: University of Milan – Bicocca 
 address:
   street: Piazza Ateneo Nuovo, 1 - building U6 room 29
   city: Milan
