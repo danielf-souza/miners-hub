@@ -9,9 +9,10 @@ sections:
     content:
       title: Contact
       text: |-
-        For further information on next event, contact the email below.
-      email: danielfernando.desouza@polimi.it
+        For further information on next event, write us a message.
+      #email: danielfernando.desouza@polimi.it
       #phone: 888 888 88 88
+      directions: "Next Event: University of Milan Bicocca - Bulding U6, Room 29."
       address:
         street:  Piazza Ateneo Nuovo, 1
         city: Milan
@@ -22,7 +23,6 @@ sections:
       coordinates:
         latitude: '45.5179281'
         longitude: '9.2123349'
-      directions: Enter Building U6 go to room 29.
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
