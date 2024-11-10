@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:danielfernando.desouza@polimi.it'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/danielf-souza/
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/danielf_desouza
