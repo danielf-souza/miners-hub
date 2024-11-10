@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/author/daniel-souza/"
+  to = "https://danielf-souza.github.io/"
+  status = 301
+  force = true
