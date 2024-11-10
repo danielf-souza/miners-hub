@@ -1,7 +1,7 @@
 ---
-title: MInERS Meeting 1 - Dietmar Harhoff (Max Planck Institute)
+title: MInERS Main Event - Dietmar Harhoff (Max Planck Institute)
 
-event: MInERS Event - ICRIOS seminar
+event: MInERS Meeting - ICRIOS seminar
 event_url: https://icrios.unibocconi.eu/opt-out-or-not-strategic-decisions-unified-patent-court
 
 location: Bocconi University
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -53,11 +53,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+Social event will follow at: **18:00** (post-seminar)
 
-Slides can be added in a few ways:
+- **Complimentary aperitivo** at [_GT Bistrot & Café_](https://g.co/kgs/Zt1HFRL), Via Guglielmo Röntgen, 6
+_A Young Scholar Initiative (YSI) event_.
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+- Note: For organizational efficiency, _registration is important_. Upon registration, you will receive an entry form to allow immediate access to the seminar premises on the day of the event. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.

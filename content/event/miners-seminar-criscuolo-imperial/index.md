@@ -1,5 +1,5 @@
 ---
-title: MInERS Meeting 2 - Paola Criscuolo (Imperial College Businness School)
+title: MInERS Main Event - Paola Criscuolo (Imperial College Businness School)
 
 event: MInERS Meeting - DEMS Economics Seminar
 event_url: https://dems.unimib.it/it/argomento-eventi/seminars/dems-seminars
@@ -13,7 +13,7 @@ address:
   country: Italy
 
 summary: "Innovation in large organizations: the role of autonomy and bottom-up inventions"
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'TBA'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,10 +28,10 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -54,10 +54,9 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+Social event will follow at: **18:00** (post-seminar)
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+- **Complimentary aperitivo** at [_Farinami Bicocca_](https://g.co/kgs/dZr7iRZ), Piazza della Trivulziana, 5.
+_A Young Scholar Initiative (YSI) event_.
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+- **Note**: For organizational efficiency, _registration is important_. Upon registration, you will receive an entry form to allow immediate access to the seminar premises on the day of the event. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
