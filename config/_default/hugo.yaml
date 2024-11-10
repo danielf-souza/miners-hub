@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MInERS # Website name
-baseURL: 'https://example.com/' # Website URL
+title: MInERS - Seminar Series # Website name
+baseURL: 'http://miners-research-seminars.eu/' # Website URL
 
 ############################
 ## LANGUAGE
