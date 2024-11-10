@@ -25,3 +25,33 @@
   to = "https://danielf-souza.github.io/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/author/stefano-baruffaldi/"
+  to = "https://www.som.polimi.it/professor/baruffaldi-stefano/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/marco-guerzoni/"
+  to = "https://www.unimib.it/marco-guerzoni"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/gabriele-pellegrino/"
+  to = "https://sites.google.com/view/gabrielepellegrino/home"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/anita-quas/"
+  to = "https://misom.unimi.it/profilo/anita-quas/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/felix-poege/"
+  to = "https://www.felixpoege.eu/"
+  status = 301
+  force = true
