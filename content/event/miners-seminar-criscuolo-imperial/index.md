@@ -53,7 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+- **CLICK [HERE](https://docs.google.com/forms/d/e/1FAIpQLScRDqsWcLwt8ZPFhbcbBPXtO0hKJFL4COdz5gviL93XHhvHHw/viewform) FOR REGISTRATION**
 Social event will follow at: **18:00** (post-seminar)
 
 - **Complimentary aperitivo** at [_Farinami Bicocca_](https://g.co/kgs/dZr7iRZ), Piazza della Trivulziana, 5.
