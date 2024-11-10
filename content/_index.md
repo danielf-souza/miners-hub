@@ -17,6 +17,14 @@ sections:
         
         The **Milan Innovation and Entrepreneurship Research Seminars** (MInERS) is a seminar series designed to promote collaboration and knowledge exchange among Milan-based innovation and entrepreneurship researchers.
   
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./event/" cta_text="Register for the next event→" %}}
+    design:
+      columns: '1'  
 #  - block: collection
 #    content:
 #      title: Latest News
@@ -55,25 +63,17 @@ sections:
 #        padding: ['20px', '0', '20px', '0']
 #      css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest Preprints
+#      text: ""
+#      count: 5
+#      filters:
+#        folders:
+#          - publication
+#        publication_type: 'article'
+#    design:
+#      view: citation
+#      columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./event/" cta_text="Register for the next event→" %}}
-    design:
-      columns: '1'
 ---
