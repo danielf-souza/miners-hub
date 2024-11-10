@@ -49,6 +49,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:felix.poege@unibocconi.it'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/felix-poege-54a879167/
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/f_poege
