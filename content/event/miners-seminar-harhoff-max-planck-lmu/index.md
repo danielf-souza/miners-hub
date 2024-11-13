@@ -1,5 +1,5 @@
 ---
-title: MInERS Main Event - Dietmar Harhoff (Max Planck Institute)
+title: Main Event - Dietmar Harhoff (Max Planck Institute)
 
 event: MInERS Meeting - ICRIOS seminar
 event_url: https://icrios.unibocconi.eu/opt-out-or-not-strategic-decisions-unified-patent-court

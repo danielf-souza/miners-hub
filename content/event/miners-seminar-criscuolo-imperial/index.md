@@ -1,8 +1,8 @@
 ---
-title: MInERS Main Event - Paola Criscuolo (Imperial College Businness School)
+title: Main Event - Paola Criscuolo (Imperial College Businness School)
 
 event: MInERS Meeting - DEMS Economics Seminar
-event_url: https://dems.unimib.it/it/argomento-eventi/seminars/dems-seminars
+event_url: https://dems.unimib.it/it/eventi/miners-dems-economics-seminar-paola-criscuolo-imperial-college
 
 location: University of Milan – Bicocca 
 address:
