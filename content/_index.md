@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./event/" cta_text="**Register for the next event** →" %}}
+        {{% cta cta_link="./event/miners-seminar-criscuolo-imperial/" cta_text="**Register for the next event** →" %}}
     design:
       columns: '1'  
 #  - block: collection
