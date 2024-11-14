@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: 'MInERS'
+    description: 'Milan Innovation and Entrepreneurship Research Seminars (MInERS) is a seminar series designed to promote collaboration and knowledge exchange among Milan-based innovation and entrepreneurship researchers.'
     twitter: ''
   analytics:
     google_analytics: ''
