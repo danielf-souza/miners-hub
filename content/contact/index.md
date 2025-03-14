@@ -31,17 +31,17 @@ sections:
         For further information on next event, write us a message.
       #email: danielfernando.desouza@polimi.it
       #phone: 888 888 88 88
-      directions: "Next Event: University of Milan Bicocca - Bulding U6, Room 29."
+      directions: "Next Event: University of Milan 'La Statale' - Department of Economics, Management, and Quantitative Methods"
       address:
-        street:  Piazza Ateneo Nuovo, 1
+        street:  Via Conservatorio, 7
         city: Milan
         region: MI
-        postcode: '94305'
+        postcode: '20122'
         country: Italy
         country_code: IT
       coordinates:
-        latitude: '45.5179281'
-        longitude: '9.2123349'
+        latitude: '45.465577'
+        longitude: '9.202297'
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
