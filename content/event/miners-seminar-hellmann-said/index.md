@@ -17,8 +17,8 @@ abstract: Thomas's research focuses on entrepreneurial finance, entrepreneurship
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-12-16T16:30:00Z'
-date_end: '2025-12-16T18:30:00Z'
+date: '2025-06-10T16:30:00Z'
+date_end: '2025-06-10T18:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
