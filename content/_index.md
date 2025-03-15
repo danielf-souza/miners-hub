@@ -25,20 +25,20 @@ sections:
         {{% cta cta_link="./event/miners-seminar-criscuolo-imperial/" cta_text="**Register for the next event** →" %}}
     design:
       columns: '1'  
-#  - block: collection
-#    content:
-#      title: Latest News
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#      offset: 0
-#      order: desc
-#      page_type: post
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+      offset: 0
+      order: desc
+      page_type: post
 #    design:
 #      view: card
 #      columns: '1'
