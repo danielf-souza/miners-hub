@@ -1,5 +1,5 @@
 ---
-title: REGIS (REading Group in Innovation Studies) Summer School
+title: REGIS (REading Group in Innovation Studies) Summer School - June 17-20
 date: 2025-03-01
 ---
 
