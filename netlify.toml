@@ -55,3 +55,9 @@
   to = "https://www.felixpoege.eu/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/author/martina-iori/"
+  to = "https://martina-iori.github.io/"
+  status = 301
+  force = true
