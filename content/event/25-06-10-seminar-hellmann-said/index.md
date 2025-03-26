@@ -55,3 +55,9 @@ projects:
 ---
 Social event will follow at: **18:30** (post-seminar)
 
+- **CLICK [_HERE_](https://docs.google.com/forms/d/e/1FAIpQLScRDqsWcLwt8ZPFhbcbBPXtO0hKJFL4COdz5gviL93XHhvHHw/viewform) FOR REGISTRATION**
+
+- **Complimentary aperitivo** at [_Deep Milano_](https://g.co/kgs/waWv8gv), Via Galvano Fiamma, 5.
+_A Young Scholar Initiative (YSI) event_.
+
+- **Note**: For organizational efficiency, _registration is important_. Upon registration, you will receive an entry form to allow immediate access to the seminar premises on the day of the event. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
