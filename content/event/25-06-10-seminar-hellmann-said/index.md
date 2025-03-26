@@ -55,7 +55,7 @@ projects:
 ---
 Social event will follow at: **18:30** (post-seminar)
 
-- **CLICK [_HERE_](https://docs.google.com/forms/d/e/1FAIpQLScRDqsWcLwt8ZPFhbcbBPXtO0hKJFL4COdz5gviL93XHhvHHw/viewform) FOR REGISTRATION**
+- **CLICK [_HERE_](https://forms.office.com/e/iBHwGZwxe4) FOR REGISTRATION**
 
 - **Complimentary aperitivo** at [_Deep Milano_](https://g.co/kgs/waWv8gv), Via Galvano Fiamma, 5.
 _A Young Scholar Initiative (YSI) event_.
