@@ -2,7 +2,7 @@
 title: Main Event - Margaret Kyle (Mines Paris – PSL)
 subtitle: "Are Cancer Drugs Worth the Price?"
 event: MInERS Meeting
-event_url: https://demm.unimi.it/index.php/en/news-and-events/events
+event_url: https://dipartimenti.unicatt.it/politica_economica?rdeLocaleAttr=en
 
 location: Catholic University of the Sacred Heart - Milan
 address:
