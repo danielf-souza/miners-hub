@@ -59,7 +59,7 @@ projects:
 Social event will follow at: **18:00** (post-seminar)
 
 - **CLICK [_HERE_](https://forms.office.com/r/uMgUPFbB7i) FOR REGISTRATION**
-- 
+
 - **Complimentary aperitivo** at [_Cantina Carducci_](https://g.co/kgs/kfGAZAc), Via Giosuè Carducci, 9.
 _A Young Scholar Initiative (YSI) event_.
 
