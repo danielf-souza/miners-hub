@@ -31,17 +31,17 @@ sections:
         For further information on next event, write us a message.
       #email: danielfernando.desouza@polimi.it
       #phone: 888 888 88 88
-      directions: "Next Event: University of Milan 'La Statale' - Department of Economics, Management, and Quantitative Methods"
+      directions: "Next Event: Catholic University of the Sacred Heart - Department of Economic Policy"
       address:
-        street:  Via Conservatorio, 7
+        street:  Largo Fra Agostino Gemelli, 1
         city: Milan
         region: MI
-        postcode: '20122'
+        postcode: '20123'
         country: Italy
         country_code: IT
       coordinates:
-        latitude: '45.465577'
-        longitude: '9.202297'
+        latitude: '45.461881'
+        longitude: '9.177055'
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
