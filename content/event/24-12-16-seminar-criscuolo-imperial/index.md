@@ -53,11 +53,11 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+#- **CLICK [_HERE_](https://docs.google.com/forms/d/e/1FAIpQLScRDqsWcLwt8ZPFhbcbBPXtO0hKJFL4COdz5gviL93XHhvHHw/viewform) FOR REGISTRATION**
+
 projects:
 ---
 Social event will follow at: **18:00** (post-seminar)
-
-- **CLICK [_HERE_](https://docs.google.com/forms/d/e/1FAIpQLScRDqsWcLwt8ZPFhbcbBPXtO0hKJFL4COdz5gviL93XHhvHHw/viewform) FOR REGISTRATION**
 
 - **Complimentary aperitivo** at [_Farinami Bicocca_](https://g.co/kgs/dZr7iRZ), Piazza della Trivulziana, 5.
 _A Young Scholar Initiative (YSI) event_.

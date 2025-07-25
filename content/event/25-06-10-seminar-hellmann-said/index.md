@@ -53,11 +53,10 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+#- **CLICK [_HERE_](https://forms.office.com/e/iBHwGZwxe4) FOR REGISTRATION**
 projects:
 ---
 Social event will follow at: **18:30** (post-seminar)
-
-- **CLICK [_HERE_](https://forms.office.com/e/iBHwGZwxe4) FOR REGISTRATION**
 
 - **Complimentary aperitivo** at [_Deep Milano_](https://g.co/kgs/waWv8gv), Via Galvano Fiamma, 5.
 _A Young Scholar Initiative (YSI) event_.

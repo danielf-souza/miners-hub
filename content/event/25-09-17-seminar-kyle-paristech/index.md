@@ -1,22 +1,22 @@
 ---
-title: Main Event - Margaret Kyle (MINES ParisTech and CEPR)
-subtitle: ""
+title: Main Event - Margaret Kyle (Mines Paris – PSL)
+subtitle: "Are Cancer Drugs Worth the Price?"
 event: MInERS Meeting
 event_url: https://demm.unimi.it/index.php/en/news-and-events/events
 
 location: Catholic University of the Sacred Heart - Milan
 address:
-  street: ''
+  street: 'Largo Gemelli, 1 – Room G.242'
   city: Milan
   region: MI
-  postcode: '20122'
+  postcode: '20123'
   country: Italy
 discussant: '<a href="https://www.linkedin.com/in/drcavicchia/" target="_blank">Demetrio Cavicchia</a> (Head of IP of Angelini Industries)'
 
-summary: "Margaret Kyle holds the Chair in Intellectual Property and Markets for Technology at MINES ParisTech. "
-abstract: ''
+summary: "Are Cancer Drugs Worth the Price?"
+abstract: 'In this talk, Professor Kyle will discuss her work, co-authored with Pierre Dubois, on the effect of pharmaceutical innovation on cancer mortality rates. Cancer is a leading cause of death in developed countries, and cancer treatments are the top category of pharmaceutical spending in the United States and Europe. This paper investigates whether novel cancer therapies reduce mortality and their cost per statistical life year saved. The study analyzes data from 24 countries and 22 cancer sites over 20 years, examining the causal relationship between the availability of approved treatments and cancer-specific mortality.'
 
-bio: Margaret Kyle holds the Chair in Intellectual Property and Markets for Technology at MINES ParisTech. She has previously held academic positions at the Toulouse School of Economics, London Business School, Duke University, Carnegie Mellon University, and was a visiting professor at Kellogg School of Management and the University of Hong Kong. Her research focuses on innovation, productivity, and competition, particularly in the pharmaceutical industry.
+bio: Margaret Kyle holds the Chair in Intellectual Property and Markets for Technology at Mines-Paris PSL. She has previously held academic positions at the Toulouse School of Economics, London Business School, Duke University, Carnegie Mellon University, and was a visiting professor at Kellogg School of Management and the University of Hong Kong. Her research focuses on innovation, productivity, and competition, particularly in the pharmaceutical industry.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

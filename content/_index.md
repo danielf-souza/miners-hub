@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./event/25-06-10-seminar-hellmann-said/" cta_text="**Register for the next event** →" %}}
+        {{% cta cta_link="./event/25-09-17-seminar-kyle-paristech/" cta_text="**Register for the next event** →" %}}
     design:
       columns: '1'  
   - block: collection
