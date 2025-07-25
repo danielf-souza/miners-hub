@@ -56,11 +56,11 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-Social event will follow at: **18:30** (post-seminar)
+Social event will follow at: **18:00** (post-seminar)
 
 - **CLICK [_HERE_](https://forms.office.com/r/uMgUPFbB7i) FOR REGISTRATION**
 - 
 - **Complimentary aperitivo** at [_Cantina Carducci_](https://g.co/kgs/kfGAZAc), Via Giosuè Carducci, 9.
 _A Young Scholar Initiative (YSI) event_.
 
-- **Note**: For organizational efficiency, _registration is important_. Upon registration, you will receive an entry form to allow immediate access to the seminar premises on the day of the event. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
+- **Note**: For organizational efficiency, _registration is important_. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
