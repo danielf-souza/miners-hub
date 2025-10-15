@@ -1,6 +1,6 @@
 ---
-title: Upcoming Event - Margaret Kyle (Mines Paris – PSL) seminar on 17 September
-date: 2025-07-25
+title: Upcoming Event - Matt Marx (Cornell University) seminar on 12 December
+date: 2025-10-14
 image:
   focal_point: 'top'
 ---
