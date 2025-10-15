@@ -43,25 +43,25 @@ sections:
 #      view: card
 #      columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: seminar_public.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain
-          text_color_light: true
-      spacing:
-        padding: ['80px', '0', '80px', '0']
-      css_class: fullscreen
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: seminar_public.jpg
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
+#          size: contain
+#          text_color_light: true
+#      spacing:
+#        padding: ['80px', '0', '80px', '0']
+#      css_class: fullscreen
 
 #  - block: collection
 #    content:
