@@ -1,5 +1,5 @@
 ---
-title: Upcoming Event - Polimi Lunch Seminar with Abhijit Sengupta (University of Surrey), 29 October
+title: Upcoming Event - POLIMI Lunch Seminar with Abhijit Sengupta (University of Surrey), 29 October
 date: 2025-10-11
 ---
 
@@ -20,8 +20,8 @@ To register, please access [event page](https://www.som.polimi.it/event/does-int
 
 - **Event Information**:
 
-Room 1.25 (first floor)
-Politecnico di Milano
-Bovisa Campus Building BL26
-Via Raffaele Lambruschini 4/B,
-20256 Milano
+- Room 1.25 (first floor)
+- Politecnico di Milano
+- Bovisa Campus Building BL26
+- Via Raffaele Lambruschini 4/B,
+- 20256 Milano
