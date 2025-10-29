@@ -58,7 +58,7 @@ projects:
 ---
 Social event will follow at: **16:30** (post-seminar)
 
-- **CLICK _HERE_ FOR REGISTRATION**
+- **CLICK [_HERE_](https://forms.office.com/e/bLb6a8485x) FOR REGISTRATION**
 
 - **Complimentary aperitivo** at [_Bovisa Urban Garden_](https://maps.app.goo.gl/3EuNMgHjEN1AtbxD9), Via Emilio Broglio, 3.
 _A Young Scholar Initiative (YSI) event_.
