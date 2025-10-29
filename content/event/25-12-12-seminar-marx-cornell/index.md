@@ -4,9 +4,9 @@ subtitle: "Connecting Fundamental Science to Commercial Innovation: A Public Dat
 event: MInERS Meeting
 event_url: ''
 
-location: Polytechnic University of Milan
+location: Polytechnic University of Milan - Department of Management, Economics and Industrial Engineering
 address:
-  street: 'Via Raffaele Lambruschini, 4b'
+  street: 'Via Raffaele Lambruschini, 4b, Building 26, Rooms 0.18-0.19'
   city: Milan
   region: MI
   postcode: '20156'
