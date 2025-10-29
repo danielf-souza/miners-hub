@@ -11,7 +11,7 @@ address:
   region: MI
   postcode: '20156'
   country: Italy
-discussant: ''
+discussant: '<a href="https://www.linkedin.com/in/gianluca-tarasconi-586a043/" target="_blank">Gianluca Tarasconi</a> (Chief Data Officer at <a href="https://www.ipquants.com/" target="_blank">ipQuants AG</a>)'
 
 summary: "Connecting Fundamental Science to Commercial Innovation: A Public Dataset of Patent-Paper Pairs"
 abstract: 'We provide a dataset of Patent-Paper Pairs (PPPs) across all fields of science, linking articles from the Microsoft Academic Graph to patents granted by the USPTO as well as patent applications not granted. We train a random forest based on a combination of hand-checked PPPs and those containing extensive ''self-plagiarism'', incorporating variables such as temporal distance, title/abstract similarity, inventor/author overlap, similarity of assignee and institution(s), overlap of backward citations,  and being supported by the same grant. We employ this dataset to revisit the perennial question of whether the patent system fulfills its original objective to ''promote the progress of science'' by comparing citations to PPPs to potential PPPs where the patent was not granted, instrumenting via examiner leniency. We find evidence disconfirming the “anticommons” view and moreover show that follow-on research is of higher quality and in a broader range of fields.'
@@ -57,3 +57,10 @@ slides:
 projects:
 ---
 Social event will follow at: **16:30** (post-seminar)
+
+- **CLICK _HERE_ FOR REGISTRATION**
+
+- **Complimentary aperitivo** at [_Bovisa Urban Garden_](https://maps.app.goo.gl/3EuNMgHjEN1AtbxD9), Via Emilio Broglio, 3.
+_A Young Scholar Initiative (YSI) event_.
+
+- **Note**: For organizational efficiency, _registration is important_. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
