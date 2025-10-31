@@ -48,13 +48,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:stefano.romito@unimi.it'
+    link: 'mailto:francesca.dipietro@unimib.it'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/stefano-romito-92b47027
+    link: https://www.linkedin.com/in/francesca-di-pietro-50305125/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=LliXfWgAAAAJ
+    link: https://scholar.google.it/citations?user=oY5FjdkAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
