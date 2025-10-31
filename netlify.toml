@@ -75,7 +75,7 @@
   force = true
 
 [[redirects]]
-  from = "/author/francesca-dipietro/"
+  from = "/author/francesca-di-pietro/"
   to = "https://www.unimib.it/francesca-pietro"
   status = 301
   force = true
