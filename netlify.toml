@@ -67,3 +67,17 @@
   to = "https://www.unimi.it/it/ugov/person/stefano-romito"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/author/luca-gius/"
+  to = "https://lucagius.github.io/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/francesca-dipietro/"
+  to = "https://www.unimib.it/francesca-pietro"
+  status = 301
+  force = true
+
+  
