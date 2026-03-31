@@ -58,3 +58,6 @@ projects:
 ---
 Social event will follow at: **18:00** (post-seminar)
 
+- **Complimentary aperitivo** at [_Caffè GUD Milano Bocconi_](https://maps.app.goo.gl/Z869yHiNyT4oTPm3A), Via Guglielmo Röntgen, 1.
+
+- **Note**: For organizational efficiency, _registration is important_. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration and the aperitivo will be, in the worst case, at the at the expense of the participants.
