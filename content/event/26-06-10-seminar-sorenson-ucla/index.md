@@ -1,8 +1,8 @@
 ---
 title: Main Event - Olav Sorenson (UCLA)
 subtitle: "The Spatial Ecology of Entrepreneurship"
-event: MInERS Meeting
-event_url: ''
+event: MInERS Meeting - ICRIOS seminar
+event_url: https://icrios.unibocconi.eu/
 
 location: Bocconi University
 address:
