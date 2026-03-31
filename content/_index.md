@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./event/25-12-12-seminar-marx-cornell/" cta_text="**Register for the next event** →" %}}
+        {{% cta cta_link="./event/26-06-10-seminar-sorenson-ucla/" cta_text="**Register for the next event** →" %}}
     design:
       columns: '1'  
   - block: collection
