@@ -29,19 +29,19 @@ sections:
       title: Contact
       text: |-
         For further information on next event, write us a message.
-      #email: danielfernando.desouza@polimi.it
+      email: info@miners-research-seminars.eu
       #phone: 888 888 88 88
-      directions: "Next Event: Polytechnic University of Milan - Dipartimento di Ingegneria Gestionale"
-      address:
-        street:  Via Raffaele Lambruschini, 4/b
-        city: Milan
-        region: MI
-        postcode: '20158'
-        country: Italy
-        country_code: IT
-      coordinates:
-        latitude: '45.503490'
-        longitude: '9.156466'
+      #directions: "Next Event: Polytechnic University of Milan - Dipartimento di Ingegneria Gestionale"
+      #address:
+      #  street:  Via Raffaele Lambruschini, 4/b
+      #  city: Milan
+      #  region: MI
+      #  postcode: '20158'
+      #  country: Italy
+      #  country_code: IT
+      #coordinates:
+      #  latitude: '45.503490'
+      #  longitude: '9.156466'
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
