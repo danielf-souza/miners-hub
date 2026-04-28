@@ -11,7 +11,7 @@ address:
   region: MI
   postcode: '20136'
   country: Italy
-
+discussant: '<a href="https://www.linkedin.com/in/nico-valenti-gatto-3985046/" target="_blank">Nico Valenti Gatto</a> (Operating Director at <a href="https://www.b4i.unibocconi.it/" target="_blank">B4i - Bocconi for innovation</a>)'
 
 summary: "The Spatial Ecology of Entrepreneurship"
 abstract: 'Why do some places repeatedly produce successful startups while others struggle to generate entrepreneurial activity, even when they appear to have similar talent, capital, and institutions? This book argues that the answer lies in the spatial ecology of organizations. Entrepreneurship is not simply the product of individual ambition, regional culture, or a checklist of ecosystem ingredients. It grows out of local organizational environments that train future founders, shape what opportunities they can see, and determine which resources they can access. Using unusually fine-grained data from Denmark, the book shows that existing firms matter not only as employers but also as breeding grounds for entrepreneurs, and that small firms play an especially important role because they expose workers to a broader range of roles and lower the costs of leaving to found a company. These processes also operate at a much smaller geographic scale than most research assumes: entrepreneurial ecosystems are often neighborhood phenomena rather than metropolitan ones. By explaining why industries cluster, why startup rates persist, and why entrepreneurial regions rise and decline, the book offers a new account of the local origins of economic dynamism.'
