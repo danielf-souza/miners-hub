@@ -6,7 +6,7 @@ event_url: https://icrios.unibocconi.eu/
 
 location: Bocconi University
 address:
-  street: Via Guglielmo Röntgen 1
+  street: Via Guglielmo Röntgen 1, Room AS02 
   city: Milan
   region: MI
   postcode: '20136'
