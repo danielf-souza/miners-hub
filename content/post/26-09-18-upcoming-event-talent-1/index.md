@@ -1,37 +1,33 @@
 ---
-title: Upcoming Event - MInERS Young Talent Seminar seminar on September 18th
-date: 2026-07-06
+title: Upcoming Event - MInERS Young Talent Seminar on September 18th
+date: 2026-09-09
 image:
-  focal_point: 'top'
+  focal_point: 'center'
 ---
 
 
-On 18 September, the next MInERS seminar will take place at University Milan-Bicocca.
+On 18 September, the next MInERS seminar will take place at the University of Milano-Bicocca.
 
 <!--more-->
 
-**MInERS Young Talent Seminar**
+We are delighted to invite you to the next event in the Milan Innovation and Entrepreneurship Research Seminar Series (MInERS), taking place on **18 September 2026, from 16:00 to 18:00**, at **Aula Rodolfi, Building U6, University of Milano-Bicocca, Piazza dell'Ateneo Nuovo 1**.
 
-We are pleased to announce the *MInERS Young Talent Seminar*, which will be held at the University of Milano-Bicocca on **18 September**.
+This event launches the **MInERS Young Talent Seminar**, a new annual format in addition to our regular seminar series, bringing together promising young scholars and senior discussants for focused presentations, constructive feedback, and lively exchange across Milan's academic community.
 
-The seminar aims to give visibility to promising young scholars and to create an opportunity for discussion around ongoing research in the fields of economics and management of innovation and entrepreneurship.
+**Programme**
 
-We invite **applications from PhD candidates and early-career researchers**, defined as scholars who obtained their PhD no more than five years ago, who wish to present their current work.
+- **[Satyaki Chakravarty](https://satyaki4.github.io/)** – Università Cattolica del Sacro Cuore<br>
+  _"Drug Development in the Face of Patent Extensions"_<br>
+  Discussant: **[Andrea Fosfuri](https://www.unibocconi.it/en/faculty/andrea-fosfuri)**, Professor of Management, Bocconi University
 
-We are looking to select three PhD candidates or young researchers to present their ongoing research during the seminar. The call is preferably, but not exclusively, addressed to candidates based in Milan.
+- **[Andola Stanaj](https://www.linkedin.com/in/andola-stanaj-ph-d-b156081b9/)** – Politecnico di Milano, DIG<br>
+  _"Content Expertise and Judgment"_<br>
+  Discussant: **[Francesco Bogliacino](https://francescobogliacino.com/)**, Professor of Economics, Università Cattolica del Sacro Cuore
 
-Applicants are invited to send a short proposal including:
+The seminar will be followed by a complimentary aperitivo, offering an opportunity to continue the conversation in a more informal setting.
 
-- title of the presentation;
-- abstract or brief description of the ongoing work;
-- short CV or brief academic profile;
-- current affiliation.
+As you may know, MInERS is a collaborative initiative aimed at strengthening the Milanese network of colleagues with interests in the economics and management of innovation and science, in its broadest sense, and entrepreneurship.
 
-Applications should be **sent by email to placeholder@ no later than 15 July**.
+Please feel free to share this invitation with colleagues who might be interested. We look forward to seeing you at Bicocca on 18 September!
 
-Selected participants will be invited to present their work at the MInERS Young Talent Seminar at the University of Milano-Bicocca on 18 September.
-
-We warmly encourage interested PhD candidates and early-career researchers working on topics related to innovation, entrepreneurship, and their economic and managerial implications to apply.
-
-
-**To register, please access the [event page](https://miners-research-seminars.eu/event/26-09-18-seminar-talent-1/)**.
+**To register for the aperitivo, please access the [event page](https://miners-research-seminars.eu/event/26-09-18-seminar-talent-1/)**.
