@@ -21,6 +21,6 @@ The School includes:
 
 Now in its third edition, the School was launched within the MUSA – Multilayered Urban Sustainability Action project, and is jointly organised by the University of Milano-Bicocca, Bocconi University, Politecnico di Milano, and the University of Milan.
 
-Please submit your applications by the  13th of March 2026 via this [link]https://seif3.lakecomoschool.org/application/. 
+Please submit your applications by the  13th of March 2026 via this [link](https://seif3.lakecomoschool.org/application/). 
 
 More information in the event [homepage](https://seif3.lakecomoschool.org/).
