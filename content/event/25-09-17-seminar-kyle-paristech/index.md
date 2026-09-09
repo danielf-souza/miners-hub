@@ -20,12 +20,12 @@ bio: Margaret Kyle holds the Chair in Intellectual Property and Markets for Tech
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-17T16:30:00Z'
-date_end: '2025-09-17T18:00:00Z'
+date: '2025-09-17T16:30:00'
+date_end: '2025-09-17T18:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-07-20T00:00:00Z'
+publishDate: '2025-07-20T00:00:00'
 
 authors: []
 tags: []

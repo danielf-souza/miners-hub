@@ -19,12 +19,12 @@ abstract: In this talk, Prof Criscuolo will delve into the critical role of auto
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-16T16:00:00Z'
-date_end: '2024-12-16T17:30:00Z'
+date: '2024-12-16T16:00:00'
+date_end: '2024-12-16T17:30:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-07T00:00:00Z'
+publishDate: '2024-11-07T00:00:00'
 
 authors: []
 tags: []

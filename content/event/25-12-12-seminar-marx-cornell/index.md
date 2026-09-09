@@ -20,12 +20,12 @@ bio: Matt Marx is the Bruce F. Failing, Sr. Chair in Entrepreneurship at the Cor
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-12-12T15:00:00Z'
-date_end: '2025-12-12T16:30:00Z'
+date: '2025-12-12T15:00:00'
+date_end: '2025-12-12T16:30:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-15T00:00:00Z'
+publishDate: '2025-10-15T00:00:00'
 
 authors: []
 tags: []

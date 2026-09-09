@@ -19,12 +19,12 @@ abstract: In his upcoming presentation, Thomas will discuss research conducted w
 bio: Thomas holds a BA from the London School of Economics and a PhD from Stanford University, where he wrote his thesis under Professor Joseph Stiglitz (winner of the Nobel Prize in Economics, 2001). He previously was faculty at the Graduate School of Business (Stanford, USA), and at the Sauder School of Business (University of British Columbia, Canada). He also held visiting positions at Harvard Business School, Wharton, the Hoover Institution, INSEAD and the University of New South Wales. Thomas's research focuses on entrepreneurial finance, entrepreneurship, innovation and public policy.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-10T16:30:00Z'
-date_end: '2025-06-10T18:30:00Z'
+date: '2025-06-10T16:30:00'
+date_end: '2025-06-10T18:30:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-14T00:00:00Z'
+publishDate: '2025-03-14T00:00:00'
 
 authors: []
 tags: []

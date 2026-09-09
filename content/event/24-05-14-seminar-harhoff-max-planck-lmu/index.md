@@ -19,12 +19,12 @@ abstract: The new Unified Patent Court (UPC) in Europe allows patent owners acce
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-17T16:00:00Z'
-date_end: '2024-05-17T18:00:00Z'
+date: '2024-05-17T16:00:00'
+date_end: '2024-05-17T18:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-07T00:00:00Z'
+publishDate: '2024-11-07T00:00:00'
 
 authors: []
 tags: []

@@ -11,6 +11,7 @@ baseURL: 'http://miners-research-seminars.eu/' # Website URL
 ############################
 
 defaultContentLanguage: en
+timeZone: Europe/Rome # Event times are written as Milan local time
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

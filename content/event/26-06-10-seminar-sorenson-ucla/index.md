@@ -20,12 +20,12 @@ bio: Olav Sorenson is the Joseph Jacobs Chair in Entrepreneurial Studies and Pro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-10T16:30:00Z'
-date_end: '2026-06-10T18:00:00Z'
+date: '2026-06-10T16:30:00'
+date_end: '2026-06-10T18:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-03-31T00:00:00Z'
+publishDate: '2026-03-31T00:00:00'
 
 authors: []
 tags: []
