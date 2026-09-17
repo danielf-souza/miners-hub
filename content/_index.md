@@ -26,7 +26,8 @@ sections:
 
         <div style="text-align: center;">
 
-        **Stay informed.** To receive our newsletter with updates on upcoming seminars and events, please write to us at [info@miners-research-seminars.eu](mailto:info@miners-research-seminars.eu?subject=Newsletter%20subscription%20request).
+        **Stay informed.** To receive our newsletter with updates on upcoming seminars and events, please write to us at:<br>
+        [info@miners-research-seminars.eu](mailto:info@miners-research-seminars.eu?subject=Newsletter%20subscription%20request)
 
         </div>
     design:
