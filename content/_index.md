@@ -23,6 +23,8 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./event/26-09-18-seminar-talent-1/" cta_text="**Register for the next event** →" %}}
+
+        **Stay informed.** To receive our newsletter with updates on upcoming seminars and events, please write to us at [info@miners-research-seminars.eu](mailto:info@miners-research-seminars.eu?subject=Newsletter%20subscription%20request).
     design:
       columns: '1'  
   - block: collection
