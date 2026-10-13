@@ -7,3 +7,8 @@
 .cta-group {
   justify-content: center;
 }
+
+// Keep the usual gap between events where the events list moves on to a new year
+#talk_list:not(:last-child) {
+  margin-bottom: 2rem;
+}
