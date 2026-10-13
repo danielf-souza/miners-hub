@@ -1,5 +1,5 @@
 ---
-title: Main Event - 1st MInERS Young Talent Seminar
+title: Special Event - 1st MInERS Young Talent Seminar
 subtitle: "Satyaki Chakravarty (Università Cattolica del Sacro Cuore) and Andola Stanaj (Politecnico di Milano, DIG)"
 event: MInERS Meeting - Young Talent Seminar
 event_url: 
