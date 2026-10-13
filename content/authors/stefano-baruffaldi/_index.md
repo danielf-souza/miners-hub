@@ -49,6 +49,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:stefano.baruffaldi@polimi.it'
+  - icon: globe
+    icon_pack: fas
+    link: https://stefanobaruffaldi.eu/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/stefano-h-baruffaldi/
