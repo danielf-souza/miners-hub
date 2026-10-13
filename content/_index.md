@@ -22,7 +22,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./event/26-09-18-seminar-talent-1/" cta_text="**Register for the next event** →" %}}
+        {{% cta cta_link="./event/26-12-01-seminar-gonzalez-uribe-lse/" cta_text="**Register for the next event** →" %}}
 
         <div style="text-align: center;">
 
