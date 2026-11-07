@@ -1,6 +1,6 @@
 ---
 title: Main Event - Juanita González-Uribe (London School of Economics)
-subtitle: "Title to be announced"
+subtitle: "Venture Debt as Bridge Financing"
 event: MInERS Meeting - DEMM - Seminar Series in Economics
 event_url: https://demm.unimi.it/index.php/en/news-and-events/events
 
@@ -12,8 +12,8 @@ address:
   postcode: '20122'
   country: Italy
 
-summary: "Title to be announced"
-abstract:
+summary: "Venture Debt as Bridge Financing"
+abstract: 'Staged venture capital financing lets investors learn before committing further capital, but exposes a startup to financing risk between rounds. Specialist lenders bridge that interval while assessing the prospects for the next equity round. In our model the lender’s capital commitment makes that assessment credible, and a small warrant pays for acquiring it. Using loan contracts hand-collected from six specialist lenders’ filings, we find that lending predicts subsequent equity rounds beyond public information, most where those prospects look weakest; that warrants concentrate in first loans; and that the lender goes on assessing after it has lent. Venture debt thus supports staged venture capital financing rather than substituting for it.'
 
 bio: Juanita González-Uribe is Associate Professor of Finance at the London School of Economics and Political Science (LSE). Her research focuses on entrepreneurship, innovation, and private equity.
 # Talk start and end times.
