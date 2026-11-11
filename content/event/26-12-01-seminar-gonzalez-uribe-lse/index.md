@@ -56,7 +56,7 @@ projects:
 ---
 Social event will follow at: **18:30** (post-seminar)
 
-- **Registration**: the registration link will be published here soon.
+- **CLICK [_HERE_](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=7161ExhwdEaj18wNsG1UXKzOjL36_BtDh7ngTtjGLU9URVJKTzgzWFpaNkRPU1U5OThHQUZFRDJSTC4u) FOR REGISTRATION**
 
 - **Complimentary aperitivo**: details will be announced soon.
 
