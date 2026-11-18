@@ -58,6 +58,7 @@ Social event will follow at: **18:30** (post-seminar)
 
 - **CLICK [_HERE_](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=7161ExhwdEaj18wNsG1UXKzOjL36_BtDh7ngTtjGLU9URVJKTzgzWFpaNkRPU1U5OThHQUZFRDJSTC4u) FOR REGISTRATION**
 
-- **Complimentary aperitivo**: details will be announced soon.
+- **Complimentary aperitivo** at [_Cagiada_](https://www.google.com/maps/search/?api=1&query=Cagiada+Via+Festa+del+Perdono+4+Milano), Via Festa del Perdono, 4.
+_A Young Scholar Initiative (YSI) event_.
 
 - **Note**: For organizational efficiency, _registration is important_. Upon registration, you will receive an entry form to allow immediate access to the seminar premises on the day of the event. The complimentary aperitivo has limited space, available on a first-come, first-served basis, with registered seminar attendees receiving priority. However, participation in the seminar remains possible also without registration.
